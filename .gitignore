@@ -1,6 +1,7 @@
-.DS_STORE
+.DS_Store
 *.pyc
 */__pycache__/
-*/MNIST_data/
+DropOut\ and\ Sparsity/MNIST_data/
 *~
 */.ipynb_checkpoints/
+DropOut\ and\ Sparsity/models/*
