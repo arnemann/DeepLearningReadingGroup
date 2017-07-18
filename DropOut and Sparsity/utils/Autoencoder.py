@@ -110,7 +110,7 @@ def specifyNetwork(hyperparameters):
     weight_decay_rate = hyperparameters['weight_decay_rate']
     shared_bias = hyperparameters['shared_bias']
 
-    mean_image = np.loadtxt('/home/charlesfrye/Notebooks/DropOut/mean_image.txt')
+    mean_image = np.loadtxt('~/mean_image.txt')
 
     weights = {}
     biases = {}
